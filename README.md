@@ -1,2 +1,2 @@
 # kv
-education project to better understand how kv storage is implemented
+educational project to better understand how kv storage is implemented
